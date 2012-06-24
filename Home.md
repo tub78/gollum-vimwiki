@@ -28,6 +28,7 @@
 [install-bundler.sh]: install-bundler.sh
 [install-gollum.sh]: install-gollum.sh
 
+
 # Viewing On Github
 
 
@@ -55,24 +56,27 @@
  * [install gollum.sh][vlocal:install-gollum.sh]
 
 ## Gollum
-### 1. Gemfile [[vlocal:Gemfile]]
+### 1. Gemfile
 
-``` bash
+ * [Gemfile][Gemfile]
+
+``` sh
   source "http://rubygems.org"
   gem "gollum"
 ```
 
-### 2. Bundler [gembundler](http://gembundler.com/)
+### 2. Bundler
 
+ * [Bundler](http://gembundler.com/) is described here
  * [install bundler.sh][vlocal:install-bundler.sh]
 
-``` bash
+``` sh
   gem install bundler
 ```
 
 ### 3. Install 
 
-``` bash
+``` sh
   bundle install --path vendor/bundle
   bundle install --binstubs
   git add Gemfile Gemfile.lock
