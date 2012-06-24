@@ -1,6 +1,6 @@
 
-[HOME][vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md]
-[GH-Pages][vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md]
+[[vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md|HOME]]
+[[vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md|GH-Pages]]
 
 
 # Github Pages

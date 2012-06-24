@@ -1,0 +1,12 @@
+
+
+Thumbs.db
+.DS_Store
+.rbenv-version
+.bundle/
+vendor/
+bin/
+
+
+.*.swp
+
