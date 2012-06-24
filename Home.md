@@ -2,7 +2,7 @@
  * [HOME][gh-pages]
  * [Vimwiki HOME][vimwiki-home]
 
-[gh-pages]: HOME.md
+[gh-pages]: HOME
 [vimwiki-home]: ../Blog_Vimwiki.md
 
 
