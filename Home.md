@@ -5,9 +5,9 @@
 [vimwiki-home]: ../Blog_Vimwiki
 
 
-# Github Pages
+# Gollum
 
- * [github gollum](https://github.com/github/gollum)
+ * [Gollum @ Github](https://github.com/github/gollum)
 
 
 
@@ -29,21 +29,23 @@
 [install-gollum.sh]: install-gollum.sh
 
 
-# Viewing On Github
+
+# Viewing 
+## Github
 
 
-# Viewing Locally
+## Locally
 
-## 1. Run Gollum
+### 1. Run Gollum
 
 ``` bash
   cd GH-Pages/
   bin/gollum
 ```
 
-## 2. Navigate to [localhost:4567](http://localhost:4567)
+### 2. Navigate to [localhost:4567](http://localhost:4567)
 
-### 2012-06-24 Grit::InvalidGitRepositoryError
+
 
 # Setup
 ## Repo
@@ -52,31 +54,31 @@
 
 
 # Install 
-
- * [install gollum.sh][vlocal:install-gollum.sh]
-
 ## Gollum
-### 1. Gemfile
+### 1. Bundler
 
- * [Gemfile][Gemfile]
+ * The recommended way to install Gollum is with [Bundler][Bundler].  This needs to be installed first.
+ * Run the following shell script to [install bundler][install-bundler.sh]
 
-``` sh
+[Bundler]: http://gembundler.com/
+
+``` bash
+  gem install bundler
+```
+
+### 2. Gemfile
+
+ * To install Gollum with [Bundler][Bundler], a minimal required [Gemfile][Gemfile] is included in this repository
+ * Run the following shell script to [install gollum.sh][install-gollum.sh]
+
+``` bash
   source "http://rubygems.org"
   gem "gollum"
 ```
 
-### 2. Bundler
-
- * [Bundler](http://gembundler.com/) is described here
- * [install bundler.sh][vlocal:install-bundler.sh]
-
-``` sh
-  gem install bundler
-```
-
 ### 3. Install 
 
-``` sh
+``` bash
   bundle install --path vendor/bundle
   bundle install --binstubs
   git add Gemfile Gemfile.lock
@@ -97,12 +99,5 @@
 ```
 
 
-
-
-
-# 2012-06-12 Gollum & Vimwiki
-
- * [github gollum](https://github.com/github/gollum)
- * [Git Tip Of Week - Gollum](http://alblue.bandlem.com/2011/05/git-tip-of-week-gollum.html)
 
 
