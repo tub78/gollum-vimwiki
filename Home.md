@@ -1,6 +1,9 @@
 
-[[vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md|HOME]]
-[[vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md|GH-Pages]]
+[HOME][gh-pages]
+[Vimwiki HOME][vimwiki-home]
+
+[gh-pages]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md
+[vimwiki-home]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md
 
 
 # Github Pages
@@ -34,6 +37,10 @@
 ## 2. Navigate to [localhost:4567](http://localhost:4567)
 
 ### 2012-06-24 Grit::InvalidGitRepositoryError
+
+# Setup
+## Repo
+
 
 
 
