@@ -25,13 +25,13 @@
 
  * [./][dotslash]
    * [Gemfile][Gemfile]
-   * [Gemfile.lock][Gemfile.lock]
-   * [install bundler.sh][install-bundler.sh]
-   * [install gollum.sh][install-gollum.sh]
+   * [Gemfile.lock][Gemfile-lock]
+   * [install-bundler.sh][install-bundler.sh]
+   * [install-gollum.sh][install-gollum.sh]
 
 [dotslash]: ./
 [Gemfile]: Gemfile
-[Gemfile.lock]: Gemfile.lock
+[Gemfile-lock]: Gemfile.lock
 [install-bundler.sh]: install-bundler.sh
 [install-gollum.sh]: install-gollum.sh
 
