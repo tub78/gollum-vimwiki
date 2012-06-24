@@ -3,7 +3,7 @@
  * [Vimwiki HOME][vimwiki-home]
 
 [gh-pages]: HOME
-[vimwiki-home]: ../Blog_Vimwiki.md
+[vimwiki-home]: ../Blog_Vimwiki
 
 
 # Github Pages
