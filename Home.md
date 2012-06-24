@@ -22,6 +22,19 @@
    * [install bundler.sh][vlocal:install-bundler.sh]
    * [install gollum.sh][vlocal:install-gollum.sh]
 
+
+ * [./][dotslash]
+   * [Gemfile][Gemfile]
+   * [Gemfile.lock][Gemfile.lock]
+   * [install bundler.sh][install-bundler.sh]
+   * [install gollum.sh][install-gollum.sh]
+
+[dotslash]: ./
+[Gemfile]: Gemfile
+[Gemfile.lock]: Gemfile.lock
+[install-bundler.sh]: install-bundler.sh
+[install-gollum.sh]: install-gollum.sh
+
 # Viewing On Github
 
 
