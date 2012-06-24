@@ -1,6 +1,6 @@
 
-[HOME][gh-pages]
-[Vimwiki HOME][vimwiki-home]
+ * [HOME][gh-pages]
+ * [Vimwiki HOME][vimwiki-home]
 
 [gh-pages]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md
 [vimwiki-home]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md
