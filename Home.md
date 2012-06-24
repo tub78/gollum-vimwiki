@@ -2,8 +2,8 @@
  * [HOME][gh-pages]
  * [Vimwiki HOME][vimwiki-home]
 
-[gh-pages]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md
-[vimwiki-home]: file:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md
+[gh-pages]: http:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/GH-Pages/HOME.md
+[vimwiki-home]: http:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md
 
 
 # Github Pages
