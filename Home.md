@@ -1,4 +1,3 @@
-
  * [HOME][gh-pages]
  * [Vimwiki HOME][vimwiki-home]
 
@@ -16,12 +15,6 @@
 
  * [../][vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md]
    * [Blog_Vimwiki][vfile:///Users/stu/Research/Tools/VimPlugins/DEV-VIMWIKI/Blog_Vimwiki.md]
- * [./][vlocal:./]
-   * [Gemfile][vlocal:Gemfile]
-   * [Gemfile.lock][vlocal:Gemfile.lock]
-   * [install bundler.sh][vlocal:install-bundler.sh]
-   * [install gollum.sh][vlocal:install-gollum.sh]
-
 
  * [./][dotslash]
    * [Gemfile][Gemfile]
