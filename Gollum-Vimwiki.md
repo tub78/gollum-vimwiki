@@ -1,6 +1,5 @@
 
 # How To Edit A Gollum Wiki With Vimwiki
-
 ## Introduction
 ### Gollum
 
