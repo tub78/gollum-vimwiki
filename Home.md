@@ -22,7 +22,7 @@
 
  * [./][dotslash]
    * [Gemfile][Gemfile]
-   * [Gemfile.lock][Gemfile-lock]
+   * [Gemfile.lock][Gemfile-lock] **automatically generated file**
    * [install-bundler.sh][install-bundler.sh]
    * [install-gollum.sh][install-gollum.sh]
 
@@ -53,12 +53,14 @@
  * Modern Ruby development
 
 ## 3. Install Gollum
-### a) Bundler
 
- * The recommended way to install Gollum is with [Bundler][Bundler].  This needs to be installed first.
- * Run the following shell script to [install bundler][install-bundler.sh]
+The recommended way to install Gollum is with [Bundler][Bundler].  This needs to be installed first.
 
 [Bundler]: http://gembundler.com/
+
+### a) Bundler
+
+Run the following shell script to [install bundler][install-bundler.sh]
 
 ``` bash
   gem install bundler
@@ -66,8 +68,7 @@
 
 ### b) Gemfile
 
- * To install Gollum with [Bundler][Bundler], a minimal required [Gemfile][Gemfile] is included in this repository
- * Run the following shell script to [install gollum.sh][install-gollum.sh]
+A minimal [Gemfile][Gemfile] is required to install Gollum with [Bundler][Bundler].
 
 ``` bash
   source "http://rubygems.org"
@@ -75,6 +76,8 @@
 ```
 
 ### c) Install 
+
+Run the following shell script to [install gollum.sh][install-gollum.sh]
 
 ``` bash
   bundle install --path vendor/bundle
@@ -118,6 +121,13 @@
   cd existing_git_repo
   git remote add origin https://github.com/tub78/gollum-vimwiki.git
   git push -u origin master
+```
+
+# Re-use Authentication
+
+``` cfg
+  ; url = https://github.com/tub78/gollum-vimwiki.git
+  url = git@github.com:tub78/gollum-vimwiki.git
 ```
 
 
