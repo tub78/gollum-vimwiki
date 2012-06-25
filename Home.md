@@ -45,7 +45,7 @@
  * [./][vlocal:./]
 
 ``` bash
-  git git://github.com/tub78/
+  git clone https://github.com/tub78/gollum-vimwiki.git
 ```
 
 ## 2. Install Ruby
@@ -121,6 +121,7 @@
 ```
 
 
+# 2012-06-24 [difference between a branch fork and clone in git](http://stackoverflow.com/questions/3329943/difference-between-a-branch-fork-and-clone-in-git)
 
 
 
