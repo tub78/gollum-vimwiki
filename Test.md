@@ -92,3 +92,24 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 
 
 
+
+
+# Viewing 
+
+## Locally
+
+### 1. Run Gollum
+
+``` bash
+  cd GH-Pages/
+  bin/gollum
+```
+
+### 2. Navigate to [http://localhost:4567](http://localhost:4567)
+
+
+## Github
+
+
+
+
