@@ -1,8 +1,10 @@
  * [HOME][gh-pages]
  * [Vimwiki HOME][vimwiki-home]
+ * [README][readme]
 
 [gh-pages]: HOME
 [vimwiki-home]: ../Blog_Vimwiki
+[readme]: README
 
 
 
@@ -46,8 +48,11 @@
   git git://github.com/tub78/
 ```
 
+## 2. Install Ruby
 
-## 2. Install Gollum
+ * Modern Ruby development
+
+## 3. Install Gollum
 ### a) Bundler
 
  * The recommended way to install Gollum is with [Bundler][Bundler].  This needs to be installed first.
@@ -79,7 +84,7 @@
 
 
 
-## 3. Install Vimwiki
+## 4. Install Vimwiki
 ### Plugin [Installation](http://code.google.com/p/vimwiki/wiki/Installation)
 
 
@@ -98,7 +103,7 @@
   bin/gollum
 ```
 
-### 2. Navigate to [localhost:4567](http://localhost:4567)
+### 2. Navigate to [http://localhost:4567](http://localhost:4567)
 
 
 ## Github
@@ -106,6 +111,14 @@
 
 
 
+
+# Publishing on Github
+
+``` bash
+  cd existing_git_repo
+  git remote add origin https://github.com/tub78/gollum-vimwiki.git
+  git push -u origin master
+```
 
 
 
