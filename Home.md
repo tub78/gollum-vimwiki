@@ -1,19 +1,8 @@
 
- * [Gollum Vimwiki][Gollum-Vimwiki]
-
-[Gollum-Vimwiki]: Gollum-Vimwiki
-
- * [README][README]
-
-[README]: README
-
- * [Vimwiki HOME][Vimwiki-HOME]
-
-[Vimwiki-HOME]: ../Blog_Vimwiki
-
-
 
 # Welcome
-## This Is Your Wiki Home Page
+## This Is Your Wiki **Home Page**
+
+ * Follow the links below for quick tutorial.
 
 
