@@ -1,8 +1,9 @@
- * [HOME][gh-pages]
+
+ * [HOME][gollum-vimwiki]
  * [Vimwiki HOME][vimwiki-home]
  * [README][readme]
 
-[gh-pages]: HOME
+[gollum-vimwiki]: HOME
 [vimwiki-home]: ../Blog_Vimwiki
 [readme]: README
 
@@ -14,7 +15,14 @@
 
 ## Introduction
 
- * [Gollum @ Github](https://github.com/github/gollum)
+[Gollum][gollum] is a Ruby framework for authoring and browsing a wiki in your browser.  It recognizes and extends several common lightweight markup languages.  Also, by virtue of close integration with Git, version control automatically tracks changes.
+
+Wiki pages are stored in plain text files that can be organized into a tree-like structure of nested directories.
+
+[Gollum][gollum] extends standard markup syntaxes with the ability to easily link between wiki pages using **Gollum Tags**.  These are double-square bracketed links, whose contents identify the target page.  Gollum tags save time and space by omitting the URL scheme and common path prefix shared by all pages in the wiki.
+
+
+[gollum]: https://github.com/github/gollum
 
 
 ## Repository Contents
@@ -102,7 +110,7 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 ### 1. Run Gollum
 
 ``` bash
-  cd GH-Pages/
+  cd gollum-vimwiki/
   bin/gollum
 ```
 
@@ -115,7 +123,12 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 
 
 
-# Publishing on Github
+# 2012-06-25 DONE:
+
+## 2012-06-25 `Trace/BPT trap: 5 gollum`
+
+
+## 2012-06-24 Publishing on Github
 
 ``` bash
   cd existing_git_repo
@@ -123,7 +136,7 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
   git push -u origin master
 ```
 
-# Re-use Authentication
+## 2012-06-24 Re-use Authentication
 
 ``` bash
   ; url = https://github.com/tub78/gollum-vimwiki.git
@@ -131,7 +144,7 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 ```
 
 
-# 2012-06-24 [difference between a branch fork and clone in git](http://stackoverflow.com/questions/3329943/difference-between-a-branch-fork-and-clone-in-git)
+## 2012-06-24 [difference between a branch fork and clone in git](http://stackoverflow.com/questions/3329943/difference-between-a-branch-fork-and-clone-in-git)
 
 
 
