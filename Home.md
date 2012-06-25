@@ -1,7 +1,7 @@
 
 
 # Welcome
-## This Is Your Wiki 'Home Page'
+## This Is Your 'Home Page'
 
  * Follow the links below for quick tutorial.
 
