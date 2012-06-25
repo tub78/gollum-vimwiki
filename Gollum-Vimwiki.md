@@ -22,7 +22,7 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 [Vim]: http://www.vim.org
 
 
-[[gollum-vimwiki-2.png|Vimwiki-Editing]]
+[[Vimwiki-Editing|gollum-vimwiki-2.png]]
 
 
 [[Gollum-Editing](gollum-vimwiki-1a.png)
