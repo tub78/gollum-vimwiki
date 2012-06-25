@@ -1,7 +1,7 @@
 
-Under construction
+Tutorial under construction
 
-Feel free to contact me with questions, comments and/or helpful tips
+ * [Tutorial Home](gollum-vimwiki/blob/master/Home.md)
 
-[Tutorial Home](gollum-vimwiki/blob/master/Home.md)
+Feel free to contact me with questions, comments or helpful tips
 
