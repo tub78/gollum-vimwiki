@@ -1,6 +1,6 @@
 
 
-This wiki was authored with [[Gollum-Vimwiki]].  For more info, check the [README][README].
+This wiki was authored with [Gollum Vimwiki][Gollum-Vimwiki].  For more info, check the [README][README].
 
 
 [README]: README

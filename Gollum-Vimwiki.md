@@ -2,9 +2,9 @@
 # How To Edit A Gollum Wiki With Vimwiki
 ## Gollum
 
-[Gollum][gollum] is "a simple, Git-powered wiki with a sweet API and local frontend".
+[Gollum][Gollum] is "a simple, Git-powered wiki with a sweet API and local frontend".
 
-[gollum]: https://github.com/github/gollum
+[Gollum]: https://github.com/github/gollum
 
 In more detail, Gollum is a Ruby framework for authoring and browsing wiki pages in your browser; a personal wiki solution.  Gollum recognizes several common lightweight markup languages.  Pages are stored in plain text files that can be organized into a tree-like structure of nested directories.  Also, by virtue of its seemless integration with Git, Gollum automatically maintains a version history of your wiki.
 
@@ -12,20 +12,15 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 
 ## Vimwiki
 
-[Vimwiki][Vimwiki] is a plugin for [Vim][Vim] for authoring an browsing wiki pages in the [Vim][Vim] editor.  Vimwiki supports two lightweight markup languages: Vimwiki-Markup, and Markdown.  Pages are stored in plain text files that can be organized into a tree-like structure of nested directories.  By virtue of Vim's plugin architecture, Vimwiki comes with all the features you have come to love about editing in Vim (e.g. command mode, syntax highlighting, keyboard mappings, etc.).
+[Vimwiki][Vimwiki] is a plugin for [Vim][Vim] for authoring an browsing wiki pages in the Vim editor.  Vimwiki supports two lightweight markup languages: Vimwiki-Markup, and Markdown.  Pages are stored in plain text files that can be organized into a tree-like structure of nested directories.  By virtue of Vim's plugin architecture, Vimwiki comes with all the features you have come to love about editing in Vim (e.g. command mode, syntax highlighting, keyboard mappings, etc.).
 
 [Vimwiki]: http://code.google.com/p/vimwiki/wiki/Installation
 [Vim]: http://www.vim.org
 
 
 
-
-
-
 # Setup
 ## 1 Fork Me
-
- * [./][vlocal:./]
 
 ``` bash
   git clone https://github.com/tub78/gollum-vimwiki.git
