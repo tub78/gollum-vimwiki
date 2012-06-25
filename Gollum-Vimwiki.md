@@ -1,7 +1,6 @@
 
 # How To Edit A Gollum Wiki With Vimwiki
-## Introduction
-### Gollum
+## 1 Gollum
 
 [Gollum][gollum] is "a simple, Git-powered wiki with a sweet API and local frontend".
 
@@ -11,11 +10,12 @@ In more detail, Gollum is a Ruby framework for authoring and browsing wiki pages
 
 Gollum extends standard markup syntaxes with the ability to easily link between wiki pages using **Gollum Tags**.  These are double-square bracketed links, whose contents identify the target page.  Relative to web and/or file URL's, Gollum tags save time and space by omitting the URL scheme and common path prefix shared by all pages in the wiki.
 
-### Vimwiki
+## 2 Vimwiki
 
-[Vimwiki][Vimwiki] is a
+[Vimwiki][Vimwiki] is a plugin for [Vim][Vim] for authoring an browsing wiki pages in the [Vim][Vim] editor.  Vimwiki supports two lightweight markup languages: Vimwiki-Markup, and Markdown.  Pages are stored in plain text files that can be organized into a tree-like structure of nested directories. 
 
 [Vimwiki](http://code.google.com/p/vimwiki/wiki/Installation)
+[Vim](http://www.vim.org)
 
 
 ## Repository Contents
