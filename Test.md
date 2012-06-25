@@ -113,3 +113,13 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 
 
 
+# Publishing on Github
+
+``` bash
+  cd existing_git_repo
+  git remote add origin https://github.com/tub78/gollum-vimwiki.git
+  git push -u origin master
+```
+
+
+
