@@ -122,4 +122,15 @@ Run the following shell script to [install gollum.sh][install-gollum.sh]
 ```
 
 
+# Re-use Authentication
+
+``` bash
+  url = git@github.com:tub78/gollum-vimwiki.git
+```
+
+
+# 2012-06-24 [difference between a branch fork and clone in git](http://stackoverflow.com/questions/3329943/difference-between-a-branch-fork-and-clone-in-git)
+
+
+
 
