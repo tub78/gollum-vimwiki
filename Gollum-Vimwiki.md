@@ -2,8 +2,8 @@
 # How To Edit A Gollum Wiki With Vimwiki
 ## Gollum
 
-[[gollum-vimwiki-1a.png|float|width=500px|align=right]]
-[[gollum-vimwiki-1b.png|float|width=500px|align=right]]
+[[gollum-vimwiki-1a.png|float|width=300px|align=right]]
+[[gollum-vimwiki-1b.png|float|width=300px|align=right]]
 <div style="clear:both;"></div>
 
 [Gollum][Gollum] is "a simple, Git-powered wiki with a sweet API and local frontend".
