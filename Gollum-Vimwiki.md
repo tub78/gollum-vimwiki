@@ -12,7 +12,7 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 
 [[gollum-vimwiki-1a.png|float|width=300px]]
 [[gollum-vimwiki-1b.png|float|width=300px]]
-<div style="clear:both;"></div
+<div style="clear:both;"></div>
 
 ## Vimwiki
 
@@ -23,7 +23,7 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 
 [[gollum-vimwiki-2.png|float|width=300px]]
 
-<div style="clear:both;"></div
+<div style="clear:both;"></div>
 
 <!--
 [[gollum-vimwiki-1a.png|alt=Gollum-Editing|float|width=300px]]
