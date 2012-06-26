@@ -11,8 +11,8 @@ In more detail, Gollum is a Ruby framework for authoring and browsing wiki pages
 
 Gollum extends standard markup syntaxes with the ability to easily link between wiki pages using **Gollum Tags**.  These are double-square-bracketed links, whose contents identify the target page.  Relative to web and/or file URL's, Gollum tags save time and space by omitting the URL scheme and common path prefix shared by all pages in the wiki.
 
-[[gollum-vimwiki-1b.png|width=400px|frame]] [[gollum-vimwiki-1a.png|width=400px|frame]]
-[[white2x2.gif|width=1px]]
+[[gollum-vimwiki-1b.png|width=400px|frame|align=center]] [[gollum-vimwiki-1a.png|width=400px|frame|align=center]]
+[[white2x2.gif|width=1px|align=right]]
 
 ## Vimwiki
 
@@ -24,7 +24,7 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 [Vimwiki]: http://code.google.com/p/vimwiki/wiki/Installation
 [Vim]: http://www.vim.org
 
-[[white2x2.gif|width=1px]]
+[[white2x2.gif|width=1px|align=right]]
 
 <!--|float|align=right]]
 [[gollum-vimwiki-1b.png|width=400px|float|align=left]] [[gollum-vimwiki-1a.png|width=400px|float|align=right]]
