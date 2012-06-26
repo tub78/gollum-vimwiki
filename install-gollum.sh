@@ -172,3 +172,18 @@ Gemfile.lock
 Use -f if you really want to add them.
 fatal: no files added
 + exit
+
+
+
+# selflog.sh> preventing recursion with "exit;"
+exit;
+# selflog.sh> starting log Mon Jun 25 21:31:42 EDT 2012
++ GOLLUM=TRUE
++ TRUE
++ bundle install --path vendor/bundle
+[31mCould not locate Gemfile[0m
++ bundle install --binstubs
+[31mCould not locate Gemfile[0m
++ git add Gemfile Gemfile.lock
+fatal: Not a git repository (or any of the parent directories): .git
++ exit

@@ -6,7 +6,7 @@ Thumbs.db
 .bundle/
 vendor/
 bin/
-
+wiki/
 
 .*.swp
 
