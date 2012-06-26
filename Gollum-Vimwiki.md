@@ -11,13 +11,12 @@ In more detail, Gollum is a Ruby framework for authoring and browsing wiki pages
 
 Gollum extends standard markup syntaxes with the ability to easily link between wiki pages using **Gollum Tags**.  These are double-square-bracketed links, whose contents identify the target page.  Relative to web and/or file URL's, Gollum tags save time and space by omitting the URL scheme and common path prefix shared by all pages in the wiki.
 
-[[gollum-vimwiki-1b.png|width=400px|float|align=left]] [[gollum-vimwiki-1a.png|width=400px|float|align=right]]
-[[white2x2.gif|width=1px|align=right]]
+[[gollum-vimwiki-1b.png|width=400px|frame]] [[gollum-vimwiki-1a.png|width=400px|frame]]
+[[white2x2.gif|width=1px]]
 
 ## Vimwiki
 
 [[gollum-vimwiki-2.png|float|width=500px|align=right]]
-[[white2x2.gif|width=1px|align=right]]
 
 [Vimwiki][Vimwiki] is a plugin for [Vim][Vim] for authoring an browsing wiki pages in the Vim editor.  Vimwiki supports two lightweight markup languages: Vimwiki-Markup, and Markdown.  Pages are stored in plain text files that can be organized into a tree-like structure of nested directories.  By virtue of Vim's plugin architecture, Vimwiki comes with all the features you have come to love about editing in Vim (e.g. command mode, syntax highlighting, keyboard mappings, etc.).
 
@@ -25,7 +24,10 @@ Gollum extends standard markup syntaxes with the ability to easily link between 
 [Vimwiki]: http://code.google.com/p/vimwiki/wiki/Installation
 [Vim]: http://www.vim.org
 
+[[white2x2.gif|width=1px]]
+
 <!--|float|align=right]]
+[[gollum-vimwiki-1b.png|width=400px|float|align=left]] [[gollum-vimwiki-1a.png|width=400px|float|align=right]]
 [[gollum-vimwiki-1a.png|alt=Gollum-Editing|float|width=300px]]
 [[gollum-vimwiki-1b.png|alt=Gollum-Browsing|float|width=300px]]
 [[gollum-vimwiki-2.png|alt=Vimwiki-Editing|float|width=300px]]
